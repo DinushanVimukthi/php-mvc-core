@@ -1,0 +1,16 @@
+{
+    "name": "stdin/core",
+    "description": "dv/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "Stdin\\Core\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DinushanVimukthi",
+            "email": "stdinushan@gmail.com"
+        }
+    ],
+    "require": {}
+}
