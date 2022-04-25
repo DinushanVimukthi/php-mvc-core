@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\form;
+namespace stdin\core\form;
 
-use app\core\Model;
+use stdin\core\Model;
 
 class Form{
 

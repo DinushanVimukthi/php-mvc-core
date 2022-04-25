@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace stdin\core;
 
-use app\core\db\DbModel;
+use stdin\core\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

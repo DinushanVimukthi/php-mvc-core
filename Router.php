@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace stdin\core;
 
-use app\core\Exceptions\NotFoundException;
+use stdin\core\Exceptions\NotFoundException;
 
 class Router
 {

@@ -1,8 +1,8 @@
 <?php
-namespace app\core;
+namespace stdin\core;
 
-use app\core\db\Database;
-use app\core\db\DbModel;
+use stdin\core\db\Database;
+use stdin\core\db\DbModel;
 
 class Application
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core;
+namespace stdin\core;
 use \PDO;
 
 abstract class Model

@@ -12,5 +12,10 @@
             "email": "stdinushan@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "stdin\\core": "./"
+        }
+    }
 }

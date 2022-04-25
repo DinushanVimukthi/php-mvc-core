@@ -1,11 +1,11 @@
 <?php
 
-namespace app\core;
-use app\core\middlewares\BaseMiddleware;
+namespace stdin\core;
+use stdin\core\middlewares\BaseMiddleware;
 
 /**
  * Class Controller
- * @var \app\core\middlewares\BaseMiddleware[]
+ * @var \stdin\core\middlewares\BaseMiddleware[]
  */
 
 class Controller

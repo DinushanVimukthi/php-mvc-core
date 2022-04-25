@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\db;
+namespace stdin\core\db;
 
-use app\core\Application;
+use stdin\core\Application;
 use \PDO;
 
 
